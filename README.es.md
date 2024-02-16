@@ -1,23 +1,45 @@
 <!--hide-->
-# Distribución de probabilidad en Python - Guía paso a paso
+# 🎲 **Distribuciones de Probabilidad** 🎲
 <!--endhide-->
 
-- Resolver los problemas utilizando Python.
+¡Hola! Esta semana he podido redescubrir el fascinante mundo de la probabilidad. La verdad es que adentrarme de nuevo en él desde el punto de vista del código ha sido cuanto menos desafiante. ¡Os invito a que le echéis un vistazo! 👀
 
-## 🌱  Cómo iniciar este proyecto
 
-Sigue las siguientes instrucciones:
+En este repositorio se estudian tres distribuciones principales:
 
-1. Crear un nuevo repositorio haciendo fork en el [proyecto de Git](https://github.com/4GeeksAcademy/probability-distribution-exercises-project-with-python) o [haciendo clic aquí](https://github.com/4GeeksAcademy/probability-distribution-exercises-project-with-python/fork).
-2. Abre el repositorio creado recientemente en Codespace usando la [extensión del botón de Codespace](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository).
-3. Una vez que el VSCode del Codespace haya terminado de abrirse, comienza tu proyecto siguiendo las instrucciones a continuación.
 
-## 🚛 Cómo entregar este proyecto
+✅ *1. Distribución Binomial*
 
-Una vez que hayas terminado de resolver los ejercicios, asegúrate de confirmar tus cambios, haz push a tu repositorio y ve a 4Geeks.com para subir el enlace del repositorio.
+¿Lanzando una moneda o contando éxitos y fracasos? La distribución binomial es tu mejor amiga cuando se trata de experimentos con resultados "sí" o "no". Nos ayuda a calcular la probabilidad de obtener un número específico de éxitos en un número fijo de intentos.
 
-## 📝 Instrucciones
 
-Una vez comiences a trabajar en el proyecto, verás un fichero `./notebook/problems.ipynb` que contiene una serie de ejercicios. Completa cada uno de ellos, uno por uno.
 
-> NOTA: Solución: https://github.com/4GeeksAcademy/probability-distribution-exercises-project-with-python/blob/main/notebook/solutions.ipynb
+✅  *2. Distribución Normal*
+
+La distribución normal, o campana de Gauss, es como la confiable compañera que siempre está presente en los datos. Nos muestra la forma en que se distribuyen los valores alrededor de la media, y es esencial para comprender fenómenos naturales y sociales.
+
+
+
+✅  *3. Distribución Uniforme*
+
+Imagina un mundo donde todas las opciones tienen la misma probabilidad de suceder. ¡Eso es la distribución uniforme! Perfecta para modelar situaciones donde la equidad y la imparcialidad reinan supremas.
+
+
+💭  **Funcionalidades Principales**
+ 
+El repositorio ofrece una serie de funciones para cada una de las distribuciones mencionadas, que incluyen:
+
+- Cálculo de la Función de Masa de Probabilidad (PMF).
+- Evaluación de la Función de Distribución Acumulativa (CDF).
+- Cálculo de la Función Cuantil (PPF).
+- Generación de Variables Aleatorias.
+- 
+Estas funciones permiten a los usuarios realizar cálculos específicos y visualizar el comportamiento de las distribuciones de probabilidad a través de gráficos.
+
+
+🧾  **Instrucciones de Uso**
+
+Para aventurarte en este viaje de probabilidad, solo necesitas un entorno de Python con las bibliotecas SciPy y Matplotlib. Una vez armado, ¡estás listo para zarpar hacia la tierra de los datos!
+
+
+*¡Gracias por unirte a mi camino de aprendizaje! Si necesitas ayuda, tienes preguntas o simplemente quieres compartir tus historias de éxito (o fracaso), no dudes en contactarme.* 👾
